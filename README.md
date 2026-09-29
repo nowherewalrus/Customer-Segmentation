@@ -47,18 +47,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
 customer-segmentation/
 │
-├── Custim_Seg.ipynb     # Main Jupyter notebook
+├── Custom_Seg.ipynb     # Main Jupyter notebook
 ├── customer.csv                    # Dataset file
 ├── README.md                       # Project documentation
 ├── requirements.txt                # Python dependencies
-│
-├── images/                         # Generated visualizations
-│   ├── elbow_method.png
-│   ├── cluster_distribution.png
-│   └── pca_visualization.png
-│
-└── outputs/                        # Analysis outputs
-    └── segmented_customers.csv
+
 ```
 
 ## 💻 Usage
@@ -192,15 +185,6 @@ jupyter>=1.0.0
 4. **A/B Testing**: Validate cluster-based marketing strategies
 5. **Dashboard**: Create interactive dashboard for business users
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 🙏 Acknowledgments
 
