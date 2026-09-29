@@ -186,12 +186,6 @@ jupyter>=1.0.0
 5. **Dashboard**: Create interactive dashboard for business users
 
 
-## 🙏 Acknowledgments
-
-- Dataset inspired by retail customer analysis
-- scikit-learn documentation for clustering implementation
-- Matplotlib and Seaborn for visualization capabilities
-
 ## 📧 Contact
 
 For questions or feedback, please open an issue in the GitHub repository.
